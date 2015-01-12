@@ -4,4 +4,8 @@ A programming assignment for CS-184 (Foundations of computer graphics) on edX.co
 Source code: https://github.com/KyleFung/SceneViewer
 
 Sample output:
-![alt tag](http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/2000px-Smiley.svg.png)
+![alt tag](http://www.mediafire.com/convkey/436b/v3d3q4rivb4wa4jzg.jpg)
+<br>
+![alt tag](http://www.mediafire.com/convkey/d57a/dp3zf9qp6aefrd3zg.jpg)
+<br>
+![alt tag](http://www.mediafire.com/convkey/9601/v2f8fcio3lrue6lzg.jpg)
